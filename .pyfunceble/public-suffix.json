@@ -1466,8 +1466,8 @@
         "realm.cz",
         "e4.cz",
         "blogspot.cz",
-        "cloud.metacentrum.cz",
         "custom.metacentrum.cz",
+        "cloud.metacentrum.cz",
         "flt.cloud.muni.cz",
         "usr.cloud.muni.cz"
     ],
@@ -2636,6 +2636,7 @@
         "name.jo"
     ],
     "jp": [
+        "nara.jp",
         "ac.jp",
         "ad.jp",
         "co.jp",
@@ -2672,7 +2673,6 @@
         "miyazaki.jp",
         "nagano.jp",
         "nagasaki.jp",
-        "nara.jp",
         "niigata.jp",
         "oita.jp",
         "okayama.jp",
