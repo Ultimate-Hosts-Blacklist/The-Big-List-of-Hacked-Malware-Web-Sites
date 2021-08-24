@@ -1041,6 +1041,9 @@
         "dynns.com",
         "elasticbeanstalk.com",
         "elb.amazonaws.com",
+        "elluciancrmadvance.com",
+        "elluciancrmadvise.com",
+        "elluciancrmrecruit.com",
         "est-a-la-maison.com",
         "est-a-la-masion.com",
         "est-le-patron.com",
@@ -1359,6 +1362,7 @@
         "servecounterstrike.com",
         "serveexchange.com",
         "serveftp.com",
+        "servegame.com",
         "servehalflife.com",
         "servehttp.com",
         "servehumour.com",
@@ -7110,6 +7114,7 @@
         "czeladz.pl",
         "czest.pl",
         "dlugoleka.pl",
+        "ecommerce-shop.pl",
         "edu.pl",
         "elblag.pl",
         "elk.pl",
@@ -7125,6 +7130,7 @@
         "grajewo.pl",
         "griw.gov.pl",
         "gsm.pl",
+        "homesklep.pl",
         "ic.gov.pl",
         "ilawa.pl",
         "info.pl",
@@ -8474,10 +8480,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--p1acf": [
-        "servegame.com",
-        "xn--h1ahn.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
