@@ -1047,9 +1047,6 @@
         "dynns.com",
         "elasticbeanstalk.com",
         "elb.amazonaws.com",
-        "elluciancrmadvance.com",
-        "elluciancrmadvise.com",
-        "elluciancrmrecruit.com",
         "est-a-la-maison.com",
         "est-a-la-masion.com",
         "est-le-patron.com",
@@ -1668,6 +1665,7 @@
         "pro.ec"
     ],
     "edu": [
+        "enterprisecloud.nu",
         "git-pages.rit.edu"
     ],
     "education": [
@@ -2294,7 +2292,6 @@
         "ap.it",
         "aq.it",
         "aquila.it",
-        "ar.it",
         "arezzo.it",
         "ascoli-piceno.it",
         "ascolipiceno.it",
@@ -2778,6 +2775,7 @@
         "aoki.nagano.jp",
         "aomori.aomori.jp",
         "aomori.jp",
+        "ar.it",
         "arai.shizuoka.jp",
         "arakawa.saitama.jp",
         "arakawa.tokyo.jp",
