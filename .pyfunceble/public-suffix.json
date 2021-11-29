@@ -4930,6 +4930,7 @@
     ],
     "mo": [
         "com.mo",
+        "edu.mo",
         "gov.mo",
         "net.mo",
         "org.mo"
@@ -5141,7 +5142,6 @@
         "durham.museum",
         "eastafrica.museum",
         "eastcoast.museum",
-        "edu.mo",
         "education.museum",
         "educational.museum",
         "egyptian.museum",
@@ -5628,6 +5628,7 @@
         "bar0.net",
         "bar1.net",
         "bar2.net",
+        "barsy.co.uk",
         "barsy.net",
         "beta.tailscale.net",
         "bitbridge.net",
@@ -8117,7 +8118,6 @@
         "ac.uk",
         "adimo.co.uk",
         "affinitylottery.org.uk",
-        "barsy.co.uk",
         "barsy.uk",
         "barsyonline.co.uk",
         "blogspot.co.uk",
