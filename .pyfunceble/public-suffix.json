@@ -1546,7 +1546,6 @@
         "dyndns1.de",
         "dynvpn.de",
         "firewall-gateway.de",
-        "frusky.de",
         "fuettertdasnetz.de",
         "git-repos.de",
         "goip.de",
@@ -8701,6 +8700,7 @@
     ],
     "zone": [
         "cloud66.zone",
+        "frusky.de",
         "hs.zone",
         "lima.zone",
         "triton.zone"
