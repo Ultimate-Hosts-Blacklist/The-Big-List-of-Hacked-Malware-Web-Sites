@@ -522,7 +522,6 @@
         "campinas.br",
         "caxias.br",
         "ce.gov.br",
-        "ce.leg.br",
         "cim.br",
         "cng.br",
         "cnt.br",
@@ -4977,6 +4976,7 @@
         "router.management"
     ],
     "marketing": [
+        "ce.leg.br",
         "from.marketing",
         "with.marketing"
     ],
