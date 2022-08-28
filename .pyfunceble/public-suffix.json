@@ -5317,7 +5317,6 @@
         "crafts.museum",
         "cranbrook.museum",
         "creation.museum",
-        "cultural.museum",
         "culturalcenter.museum",
         "culture.museum",
         "cyber.museum",
@@ -5758,6 +5757,7 @@
     "mx": [
         "blogspot.mx",
         "com.mx",
+        "cultural.museum",
         "edu.mx",
         "gob.mx",
         "net.mx",
