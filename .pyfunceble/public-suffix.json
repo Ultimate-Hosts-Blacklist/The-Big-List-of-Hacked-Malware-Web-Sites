@@ -6014,7 +6014,6 @@
         "static-access.net",
         "storage.yandexcloud.net",
         "supabase.net",
-        "sytes.net",
         "t3l3p0rt.net",
         "thruhere.net",
         "torproject.net",
@@ -8779,6 +8778,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--p1acf": [
+        "sytes.net",
+        "xn--80aaa0cvac.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
