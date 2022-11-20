@@ -2347,6 +2347,7 @@
         "pstmn.io",
         "qcx.io",
         "qoto.io",
+        "readthedocs.io",
         "reservd.dev.thingdust.io",
         "reservd.disrec.thingdust.io",
         "reservd.testing.thingdust.io",
@@ -5175,8 +5176,7 @@
     ],
     "mobi": [
         "barsy.mobi",
-        "dscloud.mobi",
-        "readthedocs.io"
+        "dscloud.mobi"
     ],
     "mp": [
         "ju.mp"
